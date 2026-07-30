@@ -1,0 +1,6 @@
+{
+  "name": "Ink & Pixels",
+  "description": "A creative writing interface that turns images into stories with an expressive AI voice and a collaborative chatbot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
